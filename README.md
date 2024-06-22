@@ -26,3 +26,5 @@ d. How is the Consumer Price index affecting the weekly sales of various stores?
 e. Top performing stores according to the historical data.
 
 f. The worst performing store, and how significant is the difference between the highest and lowest performing stores.
+
+Conclusion of Project:- The main purpose of this study was to predict Walmart’s sales based on the available historic data and identify whether factors like temperature, unemployment, fuel prices, etc affect the weekly sales of particular stores under study. This study also aims to understand whether sales are relatively higher during holidays like Christmas and Thanksgiving than normal days so that stores can work on creating promotional offers that increase sales and generate higher revenue.
