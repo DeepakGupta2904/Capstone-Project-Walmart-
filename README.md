@@ -4,7 +4,7 @@ I am done this project as a Data Scientist Intern at Intellipaat Software Soluti
 
 Technology:- Data Science
 
-Domain:- E-commerce
+Domain:- Sales Forecasting
 
 Tool Used:- Python (Jupiter Notebook)
 
